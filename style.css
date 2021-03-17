@@ -1,0 +1,39 @@
+
+* {
+    padding: 0;
+    margin: 0%;
+}
+
+table {
+    border: 1px solid #f1f1f1;
+    border-collapse: collapse;
+
+}
+th, td {
+    padding: 40px;
+    text-align: center;
+  }
+
+td {
+    border: 3px solid #f1f1f1;
+}
+
+.content{
+    padding-top: 100px;
+}
+
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 20px;
+    color: #757575;
+    text-align: center;
+}
+
+
+#grid-1 {
+    margin: 0 auto;
+}
+#grid-2 {
+    margin-top: 100px;
+    margin: 100px auto 0 auto;
+#
